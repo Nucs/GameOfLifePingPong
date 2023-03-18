@@ -1,4 +1,4 @@
-# GameOfLifePingPong
+# Game Of Life Ping Pong
 An experiment using ChatGPT 4. Created Game of Life with Ping Pong with almost no manual changes.<br/>
 The game is split into two halves, on the left is a Game of Life and on the right is the classic Ping Pong.
 
