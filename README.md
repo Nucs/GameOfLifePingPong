@@ -21,3 +21,9 @@ Start the game by executing:
 ```sh
 python main.py
 ```
+
+## Experience with GPT 4
+It took about 70 prompts. The new ChatGPT did not forget a thing from the first entry. Pasting the entire file's content helps when ChatGPT keeps referring to code changes it introduced way back.<br/>
+Compared to ChatGPT 3 it feels much more persistent and precise.<br/>
+Very capable of translating a promt of a feature into a code change where ChatGPT 3 fails horrifically.<br/>
+A new age is upon us.
